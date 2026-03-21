@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flameG" x1="20%" y1="100%" x2="80%" y2="0%">
+      <stop offset="0%" stop-color="#0A2364"/>
+      <stop offset="40%" stop-color="#1565C0"/>
+      <stop offset="75%" stop-color="#1E88E5"/>
+      <stop offset="100%" stop-color="#90CAF9"/>
+    </linearGradient>
+    <linearGradient id="innerG" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1976D2" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- FLAME ONLY — centered, standalone app icon -->
+  <g transform="translate(22, 4)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <path d="&#10;      M58,168&#10;      C30,162 10,138 10,110&#10;      C10,76 34,58 48,38&#10;      C46,64 60,76 60,76&#10;      C58,50 68,18 94,4&#10;      C90,38 104,52 112,70&#10;      C118,50 114,30 106,16&#10;      C136,34 150,66 150,96&#10;      C150,130 136,150 122,160&#10;      C128,138 118,124 104,124&#10;      C90,124 82,138 82,154&#10;      C76,162 68,168 58,168Z&#10;    " fill="url(#flameG)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <path d="&#10;      M58,150&#10;      C44,144 36,128 36,112&#10;      C36,94 50,82 58,68&#10;      C58,86 66,98 66,98&#10;      C66,82 74,64 86,54&#10;      C84,74 94,86 98,100&#10;      C102,84 98,68 92,56&#10;      C112,72 116,96 110,116&#10;      C106,134 88,150 58,150Z&#10;    " fill="url(#innerG)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+</svg>

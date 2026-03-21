@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --text-home-heading-large: 48px;
+  --text-home-heading-small: 28px;
+  --text-course-details-heading-large: 36px;
+  --text-course-details-heading-small: 26px;
+  --text-default: 15px;
+}
+
+* {
+  font-family: Outfit;
+}
