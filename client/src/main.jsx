@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import { AppContextProvider } from './context/AppContext.jsx'
-import { BrowserRouter } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom'//enable navigation between pages
 import { ClerkProvider } from '@clerk/clerk-react'
 
 // Get Publishable Key from .env file
